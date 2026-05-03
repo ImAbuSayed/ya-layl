@@ -10,7 +10,8 @@
 |-------|---------|
 | Title | Ya Layl |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 23, 2026 |
+| Lyric Writing Date | April 20, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/ya-layl/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
@@ -18,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ليل خذني إلى حضن الهوى
+> قلبي ينادي ولا غيرك دواء
+> شوقي ينادي وقلبي ما ارتوى
+> في نار حبك نذوب نحن سوا
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
